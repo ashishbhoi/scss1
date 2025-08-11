@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/AshishBhoi/scss1#readme",
   "dependencies": {
-    "sass": "^1.14.3"
+    "sass": "^1.90.0"
   }
 }
